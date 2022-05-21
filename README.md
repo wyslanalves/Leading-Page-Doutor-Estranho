@@ -10,7 +10,7 @@
 
 <div align="center">
     <img src="assets/img/img/secao-principal/drestranho.gif" alt="deluxebarber-gid-desktop" height="425">
-    <img src="assets/img/img/secao-principal/drestranho.gif" alt="deluxebarber-gid-desktop" height="425">
+    <img src="assets/img/img/secao-principal/rdestranho2.gif" alt="deluxebarber-gid-desktop" height="425">
 </div>
 <br>
 
